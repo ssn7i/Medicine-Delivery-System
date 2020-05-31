@@ -1,3 +1,4 @@
+//this is just an implementation of Dijkstra algorithm on weighted graph
 #include <iostream>
 #include<vector>
 #include<algorithm>
