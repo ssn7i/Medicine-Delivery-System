@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590910840 source:c:\users\sajal saini\desktop\c++\internship\dijstra_graph_theory\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<map>
+	<queue>
+
